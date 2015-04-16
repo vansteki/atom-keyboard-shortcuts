@@ -65,12 +65,12 @@ These are some packages I find useful, and their most useful key bindings. A lis
 
 | Command | Mac OS X | Windows | Linux | Package |
 | ------- | -------- | ------- | ----- | ----------- |
-| Block Travel up/down | `alt-up`, `alt-down` |  |  | [Block Travel](https://atom.io/packages/block-travel) |
+| Block Travel up/down | `alt-up`, `alt-down` | `alt-pageup`, `alt-pagedown`  |  | [Block Travel](https://atom.io/packages/block-travel) |
 | Bookmarklet | `ctrl-alt-b` |  |  | [Bookmarklet](https://atom.io/packages/bookmarklet) |
 | Incremental Search | `cmd-i` |  |  | [Incremental Search](https://atom.io/packages/incremental-search) |
 | Git Plus Menu | `shift-cmd-h` | `ctrl-shift-h` | `ctrl-shift-h` | [Git Plus](https://atom.io/packages/git-plus) |
 | Jumpy | `shift-enter` |  |  | [Jumpy](https://atom.io/packages/jumpy) |
-| Minimap Toggle | `ctrl-k ctrl-m` |  |  | [Minimap](https://atom.io/packages/minimap) |
+| Minimap Toggle | `ctrl-k ctrl-m` | `ctrl-alt-m` |  | [Minimap](https://atom.io/packages/minimap) |
 | Open File in Browser | `ctrl-alt-m` |  |  | [Open in Browser](https://atom.io/packages/open-in-browser) |
 | Run Script | `ctrl-cmd-i` |  |  | [Script](https://atom.io/packages/script) - Keybinding remapped from original `cmd-i` to avoid conflict with Incremental Search |
 | Open Terminal | `ctrl-alt-t` |  |  | [Term2](https://atom.io/packages/term2) |
